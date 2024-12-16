@@ -1,4 +1,6 @@
 **Django Sign-In Page with User Authentication**
+
+
 This project demonstrates how to create a basic user authentication system using Django. It includes functionalities for user registration (sign-up), login, and logout. The following instructions guide you through setting up and running the application.
 
 ## Steps to Download, Unzip, and Set Up the Project:
